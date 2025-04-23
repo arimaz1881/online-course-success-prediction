@@ -1,4 +1,3 @@
 catboost_info/
 __pycache__/
-*.csv
 *.pyc
